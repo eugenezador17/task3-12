@@ -9,6 +9,7 @@ int main(){
     const size_t n = 5;
     const size_t l = 6;
     srand(time(nullptr));
+    cout<<"hello word"<<endl;
     int A[m][n];
     for(unsigned int i = 0; i < m; i++){//
         for(unsigned int j = 0; j < n; j++){
